@@ -1,0 +1,26 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid var(--main-color);
+}
+
+.buttonSubmit {
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(95, 158, 230);
+    font-size: 18px;
+    border: 1px solid rgb(61, 61, 61);
+    text-decoration: none;
+    color: black;
+}
+
+.buttonSubmit:hover {
+    background-color: rgb(45, 127, 219);
+}

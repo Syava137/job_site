@@ -1,0 +1,8 @@
+.advantages {
+    display: flex;
+    flex-direction: row;
+    flex-flow: 3;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
