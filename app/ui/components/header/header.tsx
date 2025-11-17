@@ -11,7 +11,7 @@ const Header:FC = () => {
                 className={styles.img}
                 width={90}
                 height={90}
-                src="/compasLogo.svg"
+                src="job_site/compasLogo.svg"
                 alt="Логотип компании"
                 priority={true}
              />
